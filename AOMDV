@@ -1,0 +1,9 @@
+Simulation Based Performance Evaluation of AOMDV Routing Protocol in Mobile Ad Hoc Networks Using NS2
+Keywords: Mobile Ad hoc Networks، routing protocol، CBR، AOMDV، AODV.
+@Article{Darwisho2019, journal="Arab Journal of Sciences and Research Publishing ", 
+issn="2522-3321", volume="3",number="2",year="2019", title="Simulation Based Performance Evaluation of AOMDV Routing Protocol in Mobile Ad Hoc Networks Using NS2",
+abstract=" Due to the increased use of mobile devices with the high demand for applications such as CBR: Constant bit rate، most companies have tended to pay attention to Mobile Ad hoc Networks and search for solutions to the problems and obstacles encountered. The routing process of this type of networks was one of the solutions addressed: multi-path routing، which is used with on-demand protocols and the aim of this is to obtain efficient and fast retrieval of routes that failed in dynamic mobile networks because mobile nodes can randomly join or leave to/from the topology that may increase/decrease the node density and frequent link failures in the topology. 
+As a result node density، traffic and transmission range effects the performance of the network.
+In this paper، a proposed multi-path routing protocol is AOMDV ad hoc on demand multi path distance vector routing protocol،
+which is the expansion of the AODV single path ad hoc on demand distance vector routing protocol.Therefore، In this paper، we has been studied AOMDV routing protocol which is a multipath routing protocol on the basis of Throughput، Delay، Packet-Loss and Jitter and evaluated the performance by varying pause time and varying maximum speed of the moving nodes and for 5،10،50 nodes.",
+author="Darwisho, Hanadi ", pages="1--30", doi="10.26389/AJSRP.H040219", url="www.ajsrp.com " }
